@@ -1,16 +1,25 @@
-## Hi there 👋
+## ¿Quién soy?
 
-<!--
-**arleDevv/arleDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy de Colombia, estudiante de Ingeniería de Sistemas.
 
-Here are some ideas to get you started:
+Convierto en codigo lo que pueda imaginar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiro a tener un portafolio lleno de buenos proyectos, con códigos de alta calidad.
+
+Mi stack principal es Java y mi meta es ser desarrollador full backend.
+
+Me especializo en pensamiento lógico y crítico aplicado al desarrollo.
+
+El orden en el código es mi característica principal — código limpio ante todo.
+
+Por si te interesa algo más personal...
+
+Algunos datos de mi:
+
+— Mis personajes favoritos son Arlecchino, Frieren y Gengar.
+
+— Escribí un ensayo explicando la cuarta dimensión con integrales. Sí, en serio.
+
+— Mis juegos favoritos: Dark Souls, Red Dead Redemption 2, Frostpunk y Balatro.
+
+— Mi comida favorita son las pastas alfredo fetuccini, me encanta el café con leche por las mañanas
