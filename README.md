@@ -28,3 +28,5 @@
 🎮 Mis juegos favoritos: Dark Souls, Red Dead Redemption 2, Frostpunk y Balatro.
 
 🍝 Mi comida favorita son las pastas alfredo fettuccine y me encanta el café con leche por las mañanas.
+
+![Image](https://github.com/user-attachments/assets/8cd8f64c-27dd-419e-ad4d-16aae7da836b)
